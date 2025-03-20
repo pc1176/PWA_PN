@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PWA_PN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|e:\\pwa_pn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|e:\\pwa_pn\\services\\ipushnotificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|solutionrelative:services\\ipushnotificationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|e:\\pwa_pn\\controllers\\pushnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|solutionrelative:controllers\\pushnotificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|e:\\pwa_pn\\services\\ivapidtokensstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|solutionrelative:services\\ivapidtokensstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|e:\\pwa_pn\\services\\ipushnotificationsqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|solutionrelative:services\\ipushnotificationsqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|e:\\pwa_pn\\services\\ipushsubscriptionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|solutionrelative:services\\ipushsubscriptionstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|e:\\pwa_pn\\models\\pushsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0572880C-78E8-4ABC-9BCA-C6DEAFCBC580}|PWA_PN.csproj|solutionrelative:models\\pushsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPushNotificationsService.cs",
+              "DocumentMoniker": "E:\\PWA_PN\\Services\\IPushNotificationsService.cs",
+              "RelativeDocumentMoniker": "Services\\IPushNotificationsService.cs",
+              "ToolTip": "E:\\PWA_PN\\Services\\IPushNotificationsService.cs",
+              "RelativeToolTip": "Services\\IPushNotificationsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:55:51.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPushNotificationsQueue.cs",
+              "DocumentMoniker": "E:\\PWA_PN\\Services\\IPushNotificationsQueue.cs",
+              "RelativeDocumentMoniker": "Services\\IPushNotificationsQueue.cs",
+              "ToolTip": "E:\\PWA_PN\\Services\\IPushNotificationsQueue.cs",
+              "RelativeToolTip": "Services\\IPushNotificationsQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:54:31.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVapidTokensStorage.cs",
+              "DocumentMoniker": "E:\\PWA_PN\\Services\\IVapidTokensStorage.cs",
+              "RelativeDocumentMoniker": "Services\\IVapidTokensStorage.cs",
+              "ToolTip": "E:\\PWA_PN\\Services\\IVapidTokensStorage.cs",
+              "RelativeToolTip": "Services\\IVapidTokensStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:53:46.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPushSubscriptionStore.cs",
+              "DocumentMoniker": "E:\\PWA_PN\\Services\\IPushSubscriptionStore.cs",
+              "RelativeDocumentMoniker": "Services\\IPushSubscriptionStore.cs",
+              "ToolTip": "E:\\PWA_PN\\Services\\IPushSubscriptionStore.cs",
+              "RelativeToolTip": "Services\\IPushSubscriptionStore.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:52:33.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PWA_PN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\PWA_PN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:49:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PushNotificationsController.cs",
+              "DocumentMoniker": "E:\\PWA_PN\\Controllers\\PushNotificationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PushNotificationsController.cs",
+              "ToolTip": "E:\\PWA_PN\\Controllers\\PushNotificationsController.cs",
+              "RelativeToolTip": "Controllers\\PushNotificationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:56:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PushSubscription.cs",
+              "DocumentMoniker": "E:\\PWA_PN\\Models\\PushSubscription.cs",
+              "RelativeDocumentMoniker": "Models\\PushSubscription.cs",
+              "ToolTip": "E:\\PWA_PN\\Models\\PushSubscription.cs",
+              "RelativeToolTip": "Models\\PushSubscription.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:51:25.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
